@@ -25,10 +25,11 @@
   "contributors": [],
   "scripts": {
     "dev": "",
-    "test": ""
+    "test": "mocha"
   },
   "dependencies": {
     "chalk": "^5.0.1",
-    "figlet": "^1.5.2"
+    "figlet": "^1.5.2",
+    "mocha": "^10.0.0"
   }
 }

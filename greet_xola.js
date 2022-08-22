@@ -9,10 +9,8 @@ const for_coders = chalk.hex('#FFA500').bgCyan;
 const for_sipho = chalk.hex('#DEADED').underline 
 const for_lucas = chalk.blue.bgRed.bold 
 
-const fig_xola = figlet.textSync
-const fig_coders = figlet.fontsSync
-const fig_licas = chalk.blue.bgRed.bol
-
+const fig_xola = figlet.textSync    //change font styles
+const fig_coders = figlet.fontsSync //print font styles
 
 // call the function & print the result on the screen
 
